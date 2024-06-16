@@ -1,0 +1,7 @@
+{
+  "extends": "@revideo/core/tsconfig.project.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "@revideo/2d/lib"
+  }
+}
